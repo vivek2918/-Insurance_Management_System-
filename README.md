@@ -27,5 +27,5 @@ The platform also includes features such as automated underwriting, fraud detect
 
 # Schema Design
 
-<img src="./schema_design.PNG" alt="design photo" title="Schema Design"/>
+<img src="schema_design.png" alt="DB_Design photo" title="Schema Design"/>
 
