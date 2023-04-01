@@ -1,7 +1,9 @@
 # Insurance_Management_System
 The Insurance Management Platform is a web-based application built using Spring Boot and Java. This platform provides an end-to-end solution for managing                  insurance policies, claims. It allows insurance companies to easily manage their customers' policies, track their claims.
 
-The platform also includes features such as automated underwriting, fraud detection, and risk assessment to help insurance companies make better decisions and             reduce risk.
+This project there are three different entitys in this Client, InsurancePolicy, Claim  with all of have a different attributes.
+
+In this each of them are connect with the different mapping OnetoOne and OnetoMany respectively.
 
 # Functionality
 
